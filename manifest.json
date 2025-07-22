@@ -1,9 +1,10 @@
 {
-  "name": "Öâåòî÷íàÿ ìàñòåðñêàÿ Ôëîðà",
-  "short_name": "Ôëîðà",
+  "name": "Цветочная мастерская Флора",
+  "short_name": "Флора",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#8e44ad",
-  "description": "Авторские букеты для особых моментов"
-  
+  "description": "Авторские букеты для особых моментов",
+  "icons": [}
+}
